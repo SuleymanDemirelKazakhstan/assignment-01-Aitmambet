@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            td{
+                vertical-align: top;
+            }
+            img{
+                width: 250px;
+            }
+        </style>
+    <title>
+    </title>
+    </head>
+    <body>
+        
+        <main>
+            <div style="background-color:lightgrey; height: 1000px; width: 1000px;">
+            <table>
+                <tr class="1">
+                    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQX1YmZI6hvRoVJ5TpuM9YnUaRS0XiH1PqPXw&usqp=CAU"></td>
+                    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS83AJgKCagAW432SKDLHC-ZtcV3t0PoLLpvA&usqp=CAU"></td>
+                    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1CK9fl7YjUo_c6cfg_-4RnBBDWVClHxD1Iw&usqp=CAU"></td>
+                </tr>
+                <tr>
+                    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTR_2w-xxljJRI2rWLTeOgvImROoH4KeMuq2Q&usqp=CAU"></td>
+                    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQD0kNVWioGerpEZDvAs3BLMPbkuZgiJNb_WA&usqp=CAU"></td>
+                    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJEQDPgdx7tgSU05LpXY7_agQC9ilSu5WvqA&usqp=CAU"></td>
+                </tr>
+                <tr>
+                    <td>Brand</td>
+                    <td colspan="2"><strong>Porsche</strong></td>
+                </tr>
+                <tr>
+                    <td>Model</td>
+                    <td colspan="2"><strong>Cayenne</strong></td>
+                </tr>
+                <tr>
+                    <td>Year</td>
+                    <td colspan="2"><strong>2010</strong></td>
+                </tr>
+                <tr>
+                    <td>Year</td>
+                    <td colspan="2"><strong>2010</strong></td>
+                </tr>
+                <tr>
+                    <td>Mileage</td>
+                    <td colspan="2"><strong>100 000</strong></td>
+                </tr>
+                <tr>
+                    <td>Price</td>
+                    <td colspan="2"><strong>150 000</strong></td>
+                </tr>
+            </table>
+            </div>
+                    
+                
+            
+        </main>
+        
+    </body>
+</html>
